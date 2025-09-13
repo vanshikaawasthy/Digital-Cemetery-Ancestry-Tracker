@@ -6,7 +6,7 @@ Poor Record-Keeping: Family, burial, and maintenance details are often scattered
 Approval Delays: Approvals for burial services and plot allocations are slow, especially during emergencies or holidays.
 Limited Transparency: Families have no digital access to check availability, services, or status updates.
 Operational Challenges: Managers struggle to generate real-time reports on usage, revenue, and maintenance activities.
-👉 To address these challenges, the Digital Cemetery CRM will be built on Salesforce to:
+To address these challenges, the Digital Cemetery CRM will be built on Salesforce to:
 Provide a centralized system for managing burial plots, records, and services.
 Ensure error-free booking and approvals with automation.
 Offer secure access to sensitive family information.
